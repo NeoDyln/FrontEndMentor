@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Front End Mentor Challenges</title>
+
+    <!-- Font Links -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+
+
+    <style>
+        *{
+            font-family: Outfit;
+        }
+        .grid-container{
+            display: grid;
+            grid-template-columns: repeat(3 ,1fr);
+            grid-template-rows: repeat(3, 1fr);
+            margin: 12vh auto;
+            width: 90%;
+            text-align: center;
+        }
+        .beginner{
+            background-color: aliceblue;
+        }
+        .intermediate{
+            background-color: yellow;
+        }
+        .advanced{
+            background-color: maroon;
+            color: aliceblue;
+        }
+        .items-1{
+            font-weight: 700;
+        }
+        .items-2{
+            list-style-type: none;
+            text-align: left;
+            text-wrap: wrap;
+        }
+        a{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <p class="items-1 beginner">Beginner</p>
+        <p class="items-1 intermediate">Intermediate</p>
+        <p class="items-1 advanced">Advanced</p>
+        <ul class="items-2 beginner">
+            <li><a href="./qr-code-component-main/index.html">QR Code Responsive Page</a></li>
+        </ul>
+        <ul class="items-2 intermediate"></ul>
+        <ul class="items-2 advanced"></ul>
+    </div>
+</body>
+</html>
