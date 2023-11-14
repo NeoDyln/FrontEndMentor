@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/NeoDyln/FrontEndMentor/tree/main/qr-code-component-main](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -46,7 +46,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Dylan Rono](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/dylanrono)
+- Frontend Mentor - [@NeoDyln](https://www.frontendmentor.io/profile/NeoDyln)
+- Twitter - [@Dylan_Rono](https://www.twitter.com/Dylan_Rono)
 
