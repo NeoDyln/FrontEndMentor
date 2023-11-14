@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/NeoDyln/FrontEndMentor/tree/main/qr-code-component-main](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NeoDyln/FrontEndMentor/tree/main/qr-code-component-main](https://github.com/NeoDyln/FrontEndMentor/tree/main/qr-code-component-main)
+- Responsive QR Code Site: [https://neodyln.github.io/FrontEndMentor/qr-code-component-main/index.html](https://neodyln.github.io/FrontEndMentor/qr-code-component-main/index.html)
 
 ## My process
 
